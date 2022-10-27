@@ -5,4 +5,4 @@ docker:
 - image: circleci/ruby:242
 steps:
 - checkout
-- run: echo"A first hello"
+- run: "A first hello"
